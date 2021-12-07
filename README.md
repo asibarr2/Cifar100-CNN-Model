@@ -1,1 +1,2 @@
 # Cifar100-CNN-Model
+Creation of a CNN to analyze the CIFAR-100 dataset. The dataset consists of 60000 32x32 color images, which belong to 100 classes, with 600 images per class. There are 50000 training images (500 per class) and 10000 test images (100 per class). The 100 classes in the dataset are grouped into 20 superclasses. Each image comes with a "fine" label (the class to which it belongs) and a "coarse" label (the superclass to which it belongs).
